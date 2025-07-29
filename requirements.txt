@@ -1,0 +1,12 @@
+streamlit
+yfinance
+pandas
+numpy
+nltk
+sumy
+prophet
+statsmodels
+scikit-learn
+tensorflow
+plotly
+snowflake-connector-python
